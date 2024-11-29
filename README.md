@@ -44,9 +44,8 @@ This `init.lua` configuration file for Neovim does the following:
 
 ---
 
-### **Alternative `init.lua`**
+### **`init.lua`**
 
-Here’s a similar configuration file with slight variations:
 
 ```lua
 -- Basic settings
